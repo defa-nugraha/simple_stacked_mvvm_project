@@ -1,16 +1,13 @@
-# simple_stacked_mvvm_project
+# Simple Stacked MVVM Project
 
-A new Flutter project.
+This project is a submission for the Mobile Programming 2 course assignment, focusing on a presentation about Stacked MVVM in Flutter.
 
-## Getting Started
+## Demo Video
 
-This project is a starting point for a Flutter application.
+To view the demo of the application, please follow this link: [Demo Video](demo/demo-mvvm-to-do-list.mp4).
 
-A few resources to get you started if this is your first Flutter project:
+## Source Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The source code for this project can be found in the `source code` directory.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="demo/img-1.jpeg" height="600"/>
